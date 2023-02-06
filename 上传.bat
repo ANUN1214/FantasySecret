@@ -6,5 +6,5 @@ git pull
 git checkout -b %user% origin/%user%
 git add ./
 git commit -m "%result%"
-git push -u origin %user%
+git push -u origin %user% -f
 pause ...
