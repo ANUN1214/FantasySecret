@@ -19,8 +19,6 @@ pause
 :Fail
 git checkout %user%
 git branch -v
-git add ./
-git commit -m "%result%"
 git merge main
 git push origin %user% -f
 pause
