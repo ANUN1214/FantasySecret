@@ -7,5 +7,5 @@ git remote set-url --push origin https://github.com/yuan-uyume/FantasySecret.git
 git pull
 git add ./
 git commit -m "%result%"
-git push origin %user%
+git push -u origin %user%
 pause ...
