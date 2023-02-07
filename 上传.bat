@@ -1,4 +1,4 @@
-set user=uyume
+set user=ANUN
 set str1=commit
 set str2=%date%
 set result=%str1%, %str2%

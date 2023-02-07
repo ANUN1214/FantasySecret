@@ -1,4 +1,4 @@
-set user=uyume
+set user=ANUN
 git pull
 git checkout -b %user% origin/%user%
 if errorlevel 1 goto Fail
